@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eklaresourabh 
+- 👋 Hi, I’m @sourabh-eklare
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Python
